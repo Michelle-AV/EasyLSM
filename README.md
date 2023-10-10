@@ -16,3 +16,7 @@ mejora la calidad de vida de las personas sordas y promueve una sociedad más in
   
 ## Diseño ✒
 Todos los iconos usados fueron creados en CANVA, además de que las imágenes usadas fueron tomadas por mi misma
+
+
+## Video tutorial ▶️
+(https://www.youtube.com/watch?v=rRTqtijGCJk)
